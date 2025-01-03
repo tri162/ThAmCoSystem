@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThreeAmigosWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5ccb6d3f28d24da4172037608b3f2e9624e4b89")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThreeAmigosWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThreeAmigosWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

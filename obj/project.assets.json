@@ -10500,11 +10500,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Phani\\30(Final)\\ThreeAmigosWebApp\\ThreeAmigosWebApp.csproj",
+      "projectUniqueName": "D:\\Phani\\31\\ThreeAmigosWebApp\\ThreeAmigosWebApp.csproj",
       "projectName": "ThreeAmigosWebApp",
-      "projectPath": "D:\\Phani\\30(Final)\\ThreeAmigosWebApp\\ThreeAmigosWebApp.csproj",
+      "projectPath": "D:\\Phani\\31\\ThreeAmigosWebApp\\ThreeAmigosWebApp.csproj",
       "packagesPath": "C:\\Users\\siddh\\.nuget\\packages\\",
-      "outputPath": "D:\\Phani\\30(Final)\\ThreeAmigosWebApp\\obj\\",
+      "outputPath": "D:\\Phani\\31\\ThreeAmigosWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

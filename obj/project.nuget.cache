@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C2HqrMEI1Qg=",
+  "dgSpecHash": "SRf29whklRI=",
   "success": true,
-  "projectFilePath": "D:\\Phani\\30(Final)\\ThreeAmigosWebApp\\ThreeAmigosWebApp.csproj",
+  "projectFilePath": "D:\\Phani\\31\\ThreeAmigosWebApp\\ThreeAmigosWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\siddh\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\siddh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
